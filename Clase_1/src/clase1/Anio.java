@@ -12,6 +12,8 @@ public class Anio {
 	System.out.println(resul3);
 	int si =resul3 % 100;
 	System.out.println(si);
+	
+
 	}
 
 }
